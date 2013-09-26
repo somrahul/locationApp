@@ -1,0 +1,13 @@
+This is a test application. Work on this has started.
+
+Basic Idea: 
+this is a location app. i will be using this app to get the locations of my friends and family and then saving it in a database. 
+
+Phase 2:
+i will then output the locations using the google maps api.
+
+Phase 3:
+i will import the locations and the userdata from facebook, and people will no longer have to input the locations
+
+Phase 4:
+i will attach history to this app. hence all the locations that my friends and family have been to will be shown
